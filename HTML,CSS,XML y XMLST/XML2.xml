@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<factura codigo="1232354">
+<fecha_emision>12/12/2022</fecha_emision>
+<id_coche codigo="121">
+<marca>Seat</marca>
+<modelo>Leon</modelo> </id_coche>
+<id_cliente codigo="23">
+    <dni>1232131312j</dni>
+    <nombre>Juan</nombre>
+    <apellidos>Lopez García</apellidos>
+    <direccion>c/de arriba</direccion>
+    <telefono>34545345535354</telefono>
+</id_cliente>
+</factura>

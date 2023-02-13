@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.contenedor {
+    width: auto;
+    height: 100%;    
+    margin: auto;
+    padding: auto;
+}
+.titulo{
+    height: 15%;
+    background-image: url(casa.jfif);
+    border-radius:0;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    background-size: auto;
+    font-size: 60px;
+    color: yellow;
+    text-align: center;
+    }
+.centro{
+    height: 80%;
+    background: white;
+    border-radius: 0;
+    margin: 0;
+}
+.footer{
+    height: 5%;
+    border-radius: 0;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+.cuerpo{
+    height: 100%;
+    width: 80%;
+    background: black;
+    border-radius: 0;
+    margin: 0;
+    float: right;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+.lateral{
+    height: 100%;
+    width: 20%;
+    background: blue;
+    border-radius: 0;
+    margin: 0;
+    float: left;
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.menu li{
+    display: block;
+    height: auto;
+    width: auto;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+    border-radius: 1em;
+}
+.menu a:hover{
+    background: black;
+}

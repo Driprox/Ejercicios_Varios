@@ -1,0 +1,49 @@
+*{
+margin:0;
+padding:0;
+box-sizing:1;
+}
+.form-login{
+width: 400px;
+background: grey;
+padding: 30px;
+margin: auto;
+margin-top: 100px;
+border-radius:4px;
+font-family: 'Arial';
+color: black;
+}
+
+.field{
+width: 100%;
+border: 1px solid: green;
+border-color: green;
+margin-bottom: 10px;
+padding: 11px 10px;
+background: #B0E0E6;
+font-size: 14px;
+font-weight: bold;
+color: blue;
+}
+.field1{
+width: 100%;
+border: 1px solid: red;
+border-color: red;
+margin-bottom: 10px;
+padding: 11px 10px;
+background: #B0E0E6;
+font-size: 14px;
+font-weight: bold;
+color: blue;
+}
+.buttons{
+width: 100%;
+border: 2px;
+background:green;
+height: 40px;
+padding: 11px 10px;
+color: white;
+font-family: 'Arial';
+margin-bottom: 10px;
+font-size: 16px;
+}

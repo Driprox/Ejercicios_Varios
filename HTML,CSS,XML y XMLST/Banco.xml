@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href = "Banco.xsl" type = "text/xsl"?>
+<empleados>
+<Titulo>Fichas</Titulo>
+<empleado>
+<nombre>Juan</nombre>
+<apellido1>Perez</apellido1>
+<apellido2>Gomez</apellido2>
+<dni>24242342423f</dni>
+<sueldo>2100</sueldo>
+</empleado>
+<empleado>
+<nombre>Lucia</nombre>
+<apellido1>Garcia</apellido1>
+<apellido2>Garcia</apellido2>
+<dni>3464676452525p</dni>
+<sueldo>1545</sueldo>
+</empleado>
+<empleado>
+<nombre>Maria</nombre>
+<apellido1>Lopez</apellido1>
+<apellido2>Perez</apellido2>
+<dni>45465756313a</dni>
+<sueldo>3457</sueldo>
+</empleado>
+<empleado>
+<nombre>Pablo</nombre>
+<apellido1>Fernandez</apellido1>
+<apellido2>Carrasco</apellido2>
+<dni>235357778h</dni>
+<sueldo>1000</sueldo>
+</empleado>
+</empleados>

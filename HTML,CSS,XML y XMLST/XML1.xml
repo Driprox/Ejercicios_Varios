@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pedido>
+<titulo>Pedido</titulo>
+<articulo nombre="Lapiz"> </articulo>
+<marca>A</marca>
+<color>Negro</color>
+<cantidad>30</cantidad>
+<articulo nombre="Bloc de Notas">
+<marca>B</marca>
+<color>Azul</color>
+<cantidad>20</cantidad>
+</articulo>
+<articulo nombre="Bolígrafo">
+<marca>C</marca>
+<color>Verde</color>
+<cantidad>40</cantidad>
+</articulo>
+<articulo nombre="Bolígrafo">
+<marca>D</marca>
+<color>Negro</color>
+<cantidad>20</cantidad>
+</articulo>
+</pedido>
