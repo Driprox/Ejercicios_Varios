@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Polygon?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Interfaz2.Ventana2Controller">
+   <children>
+      <Button layoutX="243.0" layoutY="215.0" mnemonicParsing="false" text="Boton de prueba" textFill="#e47915" />
+      <Polygon fill="#1fff29" layoutX="299.0" layoutY="127.0" points="-50.0, 40.0, 50.0, 40.0, 77.79998779296875, -65.40000915527344, -1.4000244140625, -114.19999694824219, -84.5999755859375, -58.19999694824219" stroke="BLACK" strokeType="INSIDE" />
+      <Label alignment="CENTER" layoutX="165.0" layoutY="271.0" prefHeight="44.0" prefWidth="242.0" text="Etiqueta de prueba">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
