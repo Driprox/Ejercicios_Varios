@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Fichero {
-
+//Lee el fichero solo con lo introducio en texto
 	public void leerfichero(String nombreFichero) {
 		try {
 			BufferedReader bf = new BufferedReader(new FileReader(nombreFichero));
@@ -26,7 +26,7 @@ public class Fichero {
 			System.out.println("Error de lectura");
 		}
 	}
-
+//Muestra las estadisticas del texto como lineas y letras sin espacios
 	public void ficheroestadistica(String nombreFichero) {
 		try {
 			BufferedReader bf = new BufferedReader(new FileReader(nombreFichero));
@@ -50,7 +50,7 @@ public class Fichero {
 			System.out.println("Error de lectura");
 		}
 	}
-
+//Escribira y creara el fichero si no existe mediante scanner
 	public void escritura(String nombreFichero) {
 
 		File fichero = new File(nombreFichero);
