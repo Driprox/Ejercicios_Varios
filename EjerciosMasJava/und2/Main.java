@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package und2;
 
 import java.util.Scanner;
 
-/**
- *
- * @author FP
- */
+
 public class Main {
 //Prorciona un aarray aleatorio de tamaño
   public static void main(String[] args) {
