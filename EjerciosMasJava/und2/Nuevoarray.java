@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package und2;
 
 import java.util.Arrays;
 
-/**
- *
- * @author FP
- */
+
 public class Nuevoarray extends Thread {
 
   public void run(int lista[]) {
